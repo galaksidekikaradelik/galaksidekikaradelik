@@ -30,7 +30,7 @@
 - Description: Restaurant-style website with elegant and user-friendly design  
 - Tech: HTML, CSS  
 - Features: Stylish UI, structured sections, responsive design  
-- Demo: (link əlavə et)
+- Demo:  https://galaksidekikaradelik.github.io/Ma-Cocotte/
 ---
 
 ## 📚 Currently Learning
