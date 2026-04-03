@@ -24,7 +24,7 @@
 - Description: Car-related website with structured layout and clean UI  
 - Tech: HTML, CSS  
 - Features: Responsive sections, organized content, modern layout  
-- Demo: (link əlavə et)
+- Demo: https://galaksidekikaradelik.github.io/Muherrik.az/
 
 ### 🔹 Ma Cocotte
 - Description: Restaurant-style website with elegant and user-friendly design  
@@ -41,9 +41,8 @@
 ---
 
 ## 📫 Contact
-- 📧 your@email.com  
-- 💼 LinkedIn: (link əlavə et)
-
+- 📧 gumus.huseynovatv2007@gmail.com  
+- 💼 https://www.linkedin.com/in/g%C3%BCm%C3%BC%C5%9F-h%C3%BCseynova-a2ab41341/
 ---
 
 ## 📊 GitHub Stats
