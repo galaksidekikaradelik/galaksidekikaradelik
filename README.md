@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gümüş</h1>
+<h1 align="center">Hi 👋, I'm Gumush</h1>
 <h3 align="center">Front-End Developer | Building clean & responsive UIs</h3>
 
 ---
