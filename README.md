@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science student  
+- 🎓 Computer Engineer student  
 - 💻 Learning and building with HTML, CSS, JavaScript  
 - 🚀 Focused on improving by creating real-world projects  
 - 🎯 Goal: Become a strong Software Developer  
